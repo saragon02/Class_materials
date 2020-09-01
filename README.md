@@ -1,3 +1,3 @@
 ## Class_materials
 
-This repository contains class materials currently in development as BioData Club classes to be offered at Galter Library.
+This repository contains class slides and datasets to accompany classes taught at Galter Health Sciences Library & Learning Center.
